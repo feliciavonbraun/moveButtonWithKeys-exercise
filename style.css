@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background: darkolivegreen;
+    color: white;
+}
+
+.circle {
+    background: yellow;
+    border-radius: 1000px;
+    height: 5rem;
+    width: 5rem;
+    position: fixed;
+}
